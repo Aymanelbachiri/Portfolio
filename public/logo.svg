@@ -1,0 +1,17 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="aymanGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#10b981;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#059669;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Letter A for Ayman -->
+  <path d="M16 4L8 28h4l1.5-4h9l1.5 4h4L16 4z M13.5 20L16 12l2.5 8h-5z" fill="url(#aymanGradient)"/>
+
+  <!-- Subtle tech elements -->
+  <circle cx="6" cy="6" r="1" fill="#10b981" opacity="0.4"/>
+  <circle cx="26" cy="6" r="1" fill="#10b981" opacity="0.4"/>
+  <circle cx="6" cy="26" r="1" fill="#10b981" opacity="0.4"/>
+  <circle cx="26" cy="26" r="1" fill="#10b981" opacity="0.4"/>
+</svg>
